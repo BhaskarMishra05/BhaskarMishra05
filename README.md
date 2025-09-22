@@ -1,63 +1,118 @@
-<h1 align="center">Hi 👋, I'm Bhaskar Mishra</h1>
-<h3 align="center">A passionate 3rd year B.Tech CSE student | Data Analyst & ML Enthusiast</h3>
+# Bhaskar Mishra
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhaskarMishra05&label=Profile%20views&color=0e75b6&style=flat" alt="BhaskarMishra05" />
-</p>
+<div align="center">
+  
+### 💻 Data Scientist | Machine Learning Engineer | B.Tech CSE Student
 
----
+*Transforming data into insights, one algorithm at a time*
 
-### 👨‍🎓 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=BhaskarMishra05&label=Profile%20Views&color=2196F3&style=for-the-badge)](https://github.com/BhaskarMishra05)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Top%20250%20Global-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bhaskarmishra44796)
 
-- 🎓 B.Tech in Computer Science Engineering (3rd Year)
-- 📊 Data Analyst & Machine Learning Enthusiast
-- 🧠 Passionate about Data Science, ML, and AI
-- 🥇 **Top 250 Global Kaggle Competitor**
-- 💬 Ask me about `Pandas`, `Seaborn`, `NumPy`, `EDA`, `Jupyter`, and `data cleaning`
-- 🌱 Currently exploring: Deep Learning, MLOps, and Data Engineering
-- 📫 How to reach me: [bhaskarmishra1590@gmail.com](mailto:bhaskarmishra1590@gmail.com)
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+> **3rd Year Computer Science Engineering Student** with a passion for extracting meaningful insights from complex datasets
+
+🎯 **Current Focus:** Building end-to-end ML pipelines and exploring the intersection of AI and real-world applications
+
+🏆 **Achievement:** **Top 250 Global Kaggle Competitor** - Consistently delivering high-quality data science solutions
+
+🔬 **Research Interests:** Deep Learning architectures, MLOps implementation, and scalable data engineering solutions
+
+📍 **Location:** India | Open to remote collaboration
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Core Technologies**
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+### **Data Science & ML Stack**
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+</div>
+
+### **Specializations**
+- 📊 **Exploratory Data Analysis (EDA)** - Uncovering hidden patterns in complex datasets
+- 🧹 **Data Preprocessing** - Expert in data cleaning and feature engineering
+- 🤖 **Machine Learning** - From statistical models to advanced algorithms
+- 📈 **Data Visualization** - Creating compelling stories through data
+
 ---
 
-### 🏆 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhaskarMishra05&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaskarMishra05&theme=radical" />
-</p>
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=BhaskarMishra05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaskarMishra05&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarMishra05&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+
+</div>
 
 ---
 
-### 📊 Weekly Coding Stats
+## ⏱️ Development Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-> Powered by [Wakatime](https://wakatime.com) – track your coding stats automatically
+<div align="center">
+<em>Powered by <a href="https://wakatime.com">WakaTime</a> - Tracking coding productivity in real-time</em>
+</div>
 
 ---
 
-### 📫 Connect With Me
+## 🌱 Current Learning Journey
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhaskar-mishra-026848221/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
-  <a href="https://www.kaggle.com/bhaskarmishra44796" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kaggle.svg" alt="Kaggle" height="20" width="20" /></a>
-  <a href="mailto:bhaskarmishra1590@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="Gmail" height="20" width="20" /></a>
-</p>
+```python
+current_focus = {
+    "exploring": ["Deep Learning", "MLOps", "Data Engineering"],
+    "building": ["End-to-end ML Pipelines", "Real-time Data Processing"],
+    "contributing": ["Open Source Projects", "Kaggle Competitions"],
+    "goal": "Bridging the gap between data science and production systems"
+}
+```
 
 ---
 
-⭐️ From [Bhaskar Mishra](https://github.com/BhaskarMishra05)
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhaskar%20Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-mishra-026848221/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-bhaskarmishra44796-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bhaskarmishra44796)
+[![Email](https://img.shields.io/badge/Email-bhaskarmishra1590%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskarmishra1590@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Data is the new oil, but insights are the refined fuel that drives innovation"
+
+**Always open to discussing exciting projects, research opportunities, and innovative ideas in Data Science & ML**
+
+---
+
+<sub>⭐ **Star this profile if you found it interesting!** ⭐</sub>
+
+</div>
