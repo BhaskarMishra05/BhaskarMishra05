@@ -1,118 +1,55 @@
 # Bhaskar Mishra
 
-<div align="center">
-  
-### 💻 Data Scientist | Machine Learning Engineer | B.Tech CSE Student
+Undergraduate in Computer Science · India
 
-*Transforming data into insights, one algorithm at a time*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=BhaskarMishra05&label=Profile%20Views&color=2196F3&style=for-the-badge)](https://github.com/BhaskarMishra05)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Top%20250%20Global-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bhaskarmishra44796)
-
-</div>
+I focus on data analytics — understanding what data is saying, building the infrastructure to work with it, and communicating findings clearly. I also work in machine learning, primarily structured around end-to-end pipelines rather than isolated experiments.
 
 ---
 
-## 🚀 About Me
+## What I Work With
 
-> **3rd Year Computer Science Engineering Student** with a passion for extracting meaningful insights from complex datasets
+**Analytics & Visualization**
+Python · SQL · Power BI · Tableau
 
-🎯 **Current Focus:** Building end-to-end ML pipelines and exploring the intersection of AI and real-world applications
+**Machine Learning**
+Scikit-learn · Ensemble Methods · End-to-end ML Pipelines
 
-🏆 **Achievement:** **Top 250 Global Kaggle Competitor** - Consistently delivering high-quality data science solutions
+**Computer Vision**
+OpenCV · YOLO · Object Detection
 
-🔬 **Research Interests:** Deep Learning architectures, MLOps implementation, and scalable data engineering solutions
-
-📍 **Location:** India | Open to remote collaboration
-
----
-
-## 🛠️ Technical Arsenal
-
-### **Core Technologies**
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### **Data Science & ML Stack**
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
-### **Specializations**
-- 📊 **Exploratory Data Analysis (EDA)** - Uncovering hidden patterns in complex datasets
-- 🧹 **Data Preprocessing** - Expert in data cleaning and feature engineering
-- 🤖 **Machine Learning** - From statistical models to advanced algorithms
-- 📈 **Data Visualization** - Creating compelling stories through data
+**Workflow**
+Every machine learning project I build follows a structured pipeline — data ingestion, transformation, model training, and prediction — as separate, maintainable components. Not notebooks handed over as deliverables.
 
 ---
 
-## 📈 GitHub Analytics
+## Projects
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=BhaskarMishra05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaskarMishra05&theme=tokyonight&hide_border=true" width="48%" />
+**Salary Analysis**
+End-to-end analytics project. Raw data loaded into a relational database, queried and aggregated over multi-year spans using SQL, findings presented through a Tableau dashboard.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarMishra05&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+**Diabetes Prediction**
+Binary classification model using an ensemble approach to predict diabetic outcomes. Full pipeline architecture from preprocessing through prediction.
 
-</div>
+**Bank Churn Prediction**
+Binary classification to identify customers likely to churn. Same structured pipeline methodology.
 
----
-
-## ⏱️ Development Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-<em>Powered by <a href="https://wakatime.com">WakaTime</a> - Tracking coding productivity in real-time</em>
-</div>
+**Road Object Detection** *(in progress)*
+Computer vision project covering object detection, lane detection, and road scene classification using OpenCV and YOLO. Not yet public.
 
 ---
 
-## 🌱 Current Learning Journey
+## Kaggle
 
-```python
-current_focus = {
-    "exploring": ["Deep Learning", "MLOps", "Data Engineering"],
-    "building": ["End-to-end ML Pipelines", "Real-time Data Processing"],
-    "contributing": ["Open Source Projects", "Kaggle Competitions"],
-    "goal": "Bridging the gap between data science and production systems"
-}
-```
+[bhaskarmishra44796](https://www.kaggle.com/bhaskarmishra44796) · Notebooks Master · Top 200 Global · Active in monthly competitions
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Certification
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhaskar%20Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-mishra-026848221/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-bhaskarmishra44796-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bhaskarmishra44796)
-[![Email](https://img.shields.io/badge/Email-bhaskarmishra1590%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskarmishra1590@gmail.com)
-
-</div>
+Google Data Analytics Certificate
 
 ---
 
-<div align="center">
+## Contact
 
-### 💡 "Data is the new oil, but insights are the refined fuel that drives innovation"
-
-**Always open to discussing exciting projects, research opportunities, and innovative ideas in Data Science & ML**
-
----
-
-<sub>⭐ **Star this profile if you found it interesting!** ⭐</sub>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/bhaskar-mishra-026848221/) · [bhaskarmishra1590@gmail.com](mailto:bhaskarmishra1590@gmail.com)
